@@ -4,3 +4,14 @@
   gap: 2rem;
   list-style-type: none;
 }
+a{
+   text-decoration : none;
+   color: white;
+}
+a:hover{
+    color: rgb(122, 170, 212);
+}
+
+.active{
+    text-decoration: underline;
+}
